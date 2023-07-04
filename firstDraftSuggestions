@@ -1,0 +1,18 @@
+Documenting few of the ideas discussed till now - 
+
+1) Most basic functionality for the website would be login for user - (Employee/admin/HR..)
+2) As decided the website should have access management for different types of users - 
+	e.g. - HR/Admin can view the information of all registered employees but normal employees should not be able to access that url. 
+3) Basic CRUD operations on employees - (Add,Update, delete and view). (Still not decided whether to go with double approval system (HR- Admin pair) or just keep HR or Admin as a single authority for all the operations).
+4) Group-View - This a suggestion where employees can add posts or announcements which can be specific to department or all employees.
+5) Announcement Feature - Similar to above but specifically designed just for HR to use - HR should be able to send announcements to various
+	employees department wise or branch wise or Hierarchy wise(management level) or all employees. Feature should be on main login page of an employee rather than another URL or page like 
+	group view.
+6) Payslip Generation - depending on the difficulty and further research decide whether we give individual users their payroll information 
+	on online website or also add a feature for them to generate the PDF of payslip and download.
+	added suggestion for HR to view total payroll data of all the employees or department wise or branch wise. It should be like an  		 report type and seperate feature just on HR's dashboard.
+7) Common search for HR and employees - 
+Employess should be able to see basic details of other employees including contact email. name department and others in search bar.
+HR should have more authority to view protected details about the employees as well.
+(this feature and above mentioned report of payroll data for all employees should be viewed as dynamic table on HR view. i.e. show only 10 employees in table with multiple pages (e.g. google search) and HR can order the above data with alphabetical order of empoyee names, or Paygrade) 
+8) Leave management for employees . (Not sure at the time on how to emplement this or how extensive the feature is to be) .

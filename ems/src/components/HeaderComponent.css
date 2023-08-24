@@ -1,0 +1,17 @@
+.my-heading {
+    position: fixed;
+    top: 0;
+    width: 1500px;
+  }
+
+  .headerName{
+    position: fixed;
+    top: 0;
+    width: 1468px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.641);
+    height: 66px;
+    color: white;
+    margin: 2px;
+    font-size: 39px;
+  }

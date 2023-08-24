@@ -16,3 +16,8 @@ Employess should be able to see basic details of other employees including conta
 HR should have more authority to view protected details about the employees as well.
 (this feature and above mentioned report of payroll data for all employees should be viewed as dynamic table on HR view. i.e. show only 10 employees in table with multiple pages (e.g. google search) and HR can order the above data with alphabetical order of empoyee names, or Paygrade) 
 8) Leave management for employees . (Not sure at the time on how to emplement this or how extensive the feature is to be) .
+
+
+
+***9) We can have teammates added to the task manager like JIRA where teammates can veiw the progress on each others' task to be transparent.
+	like JIRA software
